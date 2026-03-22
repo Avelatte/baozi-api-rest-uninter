@@ -17,7 +17,7 @@ import com.avelatte.baozi_api_rest.repositories.ProdutoRepository;
 import java.util.List;
 
 @RestController
-@RequestMapping("/produto")
+@RequestMapping("/produtos")
 public class ProdutoController {
 
     @Autowired

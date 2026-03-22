@@ -17,7 +17,7 @@ import com.avelatte.baozi_api_rest.models.Cliente;
 import java.util.List;
 
 @RestController
-@RequestMapping("/cliente")
+@RequestMapping("/clientes")
 public class ClienteController {
     
     @Autowired

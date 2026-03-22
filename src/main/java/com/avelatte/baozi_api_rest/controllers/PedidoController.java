@@ -17,7 +17,7 @@ import com.avelatte.baozi_api_rest.models.Pedido;
 import java.util.List;
 
 @RestController
-@RequestMapping("/pedido")
+@RequestMapping("/pedidos")
 public class PedidoController {
     
     @Autowired
